@@ -51,6 +51,6 @@ The dataset is publicly available for educational and analytical purposes.
 - 📊 Combining infections, deaths, and vaccinations provides a holistic view of pandemic control efficiency.
 
 ## ✍️ Author
-James
-🎓 Tarumanagara University — Computer Science
+**James**  
+🎓 Tarumanagara University — Computer Science  
 📍 Jakarta, Indonesia
