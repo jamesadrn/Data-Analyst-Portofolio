@@ -30,6 +30,7 @@ Each folder contains individual projects.
 | Project | Description | Link |
 |----------|--------------|------|
 | Airbnb Market Analysis | Visualization of Airbnb listings and pricing patterns | [View Project](./Tableau/AirbnbMarketAnalysis) |
+| Global COVID-19 Analysis | Visualization of Global COVID-19 data  | [View Project](./Tableau/COVID19) |
 
 ---
 
@@ -43,6 +44,8 @@ Each folder contains individual projects.
 ### 🧾 Excel 
 | Project | Description | Link |
 |----------|--------------|------|
+| Payroll Automation System | Automated payroll and salary computation system for PT Anderson Makmur, integrating attendance, position, and allowances into one Excel file | [View Project](./Excel/Payroll) |
+| Bike Sales Dashboard | Interactive Excel dashboard analyzing customer demographics, income, and commute distance affecting bike purchase decisions | [View Project](./Excel/SalesDashboard) |
 
 ---
 
