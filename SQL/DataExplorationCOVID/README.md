@@ -52,5 +52,6 @@ The dataset is publicly available for educational and analytical purposes.
 
 ## ✍️ Author
 **James**  
-🎓 Tarumanagara University — Computer Science  
-📍 Jakarta, Indonesia
+🎓 Computer Science Student — *Tarumanagara University (Indonesia)*  
+📊 Passionate about Data Analytics, Business Intelligence, and Storytelling through Data  
+📍 Jakarta, Indonesia  
