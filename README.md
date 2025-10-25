@@ -1,77 +1,53 @@
-# 📊 James' Data Analytics Portfolio
+# 📚 James' Data Analytics Portfolio
 
-Hi there! I'm **James**, a Computer Science student at **Tarumanagara University (Indonesia)** with a strong interest in **Data Analytics** and **Business Intelligence**.  
-This repository showcases my projects in **data visualization**, **analysis**, and **exploration** using various tools.
+Hi, I'm **James**, a Computer Science student at **Tarumanagara University (Indonesia)**,  
+with a strong interest in **Data Analytics**.
+
+This repository is my collection of analytics projects using different tools like Power BI, SQL, Tableau, and Excel.  
+Each folder contains individual projects.
 
 ---
 
-## 🧠 About This Portfolio
-
-Each project here reflects my journey in learning data analytics — from cleaning and exploring datasets, to visualizing insights that help answer real-world business questions.
-
-🧰 **Tools & Technologies**
-- Excel
+## 🧠 Tools
 - Power BI
-- Tableau
+- Excel
 - SQL
+- Tableau
 - Python (Pandas, Matplotlib)
 
 ---
 
-## 📂 Projects Overview
+## 📂 Project Categories
 
-| Project | Description | Tools |
-|----------|--------------|-------|
-| [Sales & Customer Satisfaction Dashboard](#sales--customer-satisfaction-dashboard) | Analyzed sales and delivery data to find factors affecting customer satisfaction | Power BI, Excel |
-| [Airbnb Market Analysis](#airbnb-market-analysis) | Visualized Airbnb pricing, revenue, and room popularity across regions | Tableau |
-| [Payroll Management Dashboard](#payroll-management-dashboard) | Automated payroll calculation and created interactive summary dashboard | Excel |
-| [COVID-19 SQL Exploration](#covid-19-sql-exploration) | Explored relationships between COVID-19 cases, deaths, and vaccination rates | SQL |
+### 🧮 SQL 
+| Project | Description | Link |
+|----------|--------------|------|
+| COVID Data Exploration | Exploring COVID deaths and vaccination data | [View Project](./SQL/DataExplorationCOVID) |
 
 ---
 
-## 🔹 Sales & Customer Satisfaction Dashboard
-**Goal:** Identify reasons behind declining customer satisfaction by analyzing sales and delivery data.  
-**Key Findings:**  
-- Late deliveries strongly correlated with satisfaction drops  
-- Sales volume fluctuated seasonally across regions  
-**Tools:** Power BI, Excel  
-📁 *(Upload your .pbix or screenshots here once ready)*
+### 📊 Tableau
+| Project | Description | Link |
+|----------|--------------|------|
+| Airbnb Market Analysis | Visualization of Airbnb listings and pricing patterns | [View Project](./Tableau/AirbnbMarketAnalysis) |
 
 ---
 
-## 🔹 Airbnb Market Analysis
-**Goal:** Explore pricing patterns and top-performing property types on Airbnb.  
-**Highlights:**  
-- Found price variation by ZIP code  
-- Identified top revenue-generating room categories  
-**Tools:** Tableau  
-📁 *(Add dashboard link or screenshots)*
+### 📊 Power BI 
+| Project | Description | Link |
+|----------|--------------|------|
+| Sales & Customer Satisfaction Analysis | Analyzing sales and delivery performance to find factors causing customer satisfaction drop | [View Project](./PowerBI/SalesCustomerSatisfaction) |
 
 ---
 
-## 🔹 Payroll Management Dashboard
-**Goal:** Simplify payroll process using Excel automation.  
-**Features:**  
-- Salary calculation and overtime tracking  
-- Pivot-based summary dashboard  
-**Tools:** Excel  
-
----
-
-## 🔹 COVID-19 SQL Exploration
-**Goal:** Use SQL to uncover trends between COVID-19 deaths and vaccination rates.  
-**Techniques:** Joins, Aggregations, and Window Functions  
-**Tools:** SQL  
-
----
-
-## 🚀 Next Steps
-Currently learning **Data Engineering fundamentals** to deepen my understanding of data pipelines and automation.
+### 🧾 Excel 
+| Project | Description | Link |
+|----------|--------------|------|
 
 ---
 
 ## 📫 Contact
-Feel free to connect with me for collaboration or feedback!
-
-- 🌍 GitHub: [jamesadrn](https://github.com/jamesadrn)
-- 💼 LinkedIn: *(add your link here if available)*
+📍 Jakarta, Indonesia  
+📧 [Gmail](jamesandrn@gmail.com)  
+📧 [LinkedIn](https://www.linkedin.com/in/jamesandrn)  
+🌐 [GitHub Profile](https://github.com/jamesadrn)
