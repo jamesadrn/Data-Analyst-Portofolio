@@ -1,4 +1,4 @@
-# 📚 James' Data Analytics Portfolio
+# 📚 Data Analytics Portfolio
 
 Hi, I'm **James**, a Computer Science student at **Tarumanagara University (Indonesia)**,  
 with a strong interest in **Data Analytics**.
