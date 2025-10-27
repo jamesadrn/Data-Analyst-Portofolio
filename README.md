@@ -23,6 +23,7 @@ Each folder contains individual projects.
 | Project | Description | Link |
 |----------|--------------|------|
 | COVID Data Exploration | Exploring COVID deaths and vaccination data | [View Project](./SQL/DataExplorationCOVID) |
+| Chocolate Sales ETL Pipeline | Building a complete SQL-based ETL pipeline and data cleaning process using PostgreSQL | [View Project](./ChocolateSalesETLProject) |
 
 ---
 
@@ -38,7 +39,7 @@ Each folder contains individual projects.
 | Project | Description | Link |
 |----------|--------------|------|
 | Sales & Customer Satisfaction Analysis | Analyzing sales and delivery performance to find factors causing customer satisfaction drop | [View Project](./PowerBI/SalesCustomerSatisfaction) |
-
+| Chocolate Sales Performance Dashboard | Visualizing chocolate sales trends, top products, and growth insights from PostgreSQL data | [View Project](./ChocolateSalesETLProject) |
 ---
 
 ### 🧾 Excel 
