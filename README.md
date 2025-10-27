@@ -39,7 +39,7 @@ Each folder contains individual projects.
 | Project | Description | Link |
 |----------|--------------|------|
 | Sales & Customer Satisfaction Analysis | Analyzing sales and delivery performance to find factors causing customer satisfaction drop | [View Project](./PowerBI/SalesCustomerSatisfaction) |
-| Chocolate Sales Performance Dashboard | Visualizing chocolate sales trends, top products, and growth insights from PostgreSQL data | [View Project](./ChocolateSalesETLProject) |
+| Chocolate Sales Performance Dashboard | Visualizing chocolate sales trends, top products, and growth insights from PostgreSQL data | [View Project](./ChocolateSalesETLProject/DashboardPicture.png) |
 ---
 
 ### 🧾 Excel 
