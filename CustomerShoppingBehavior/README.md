@@ -49,6 +49,12 @@ Located in `/sql`, this stage focuses on:
 - Top rated products 
 - Do subscribed cstomers spend more?
 etc
+
+---
+
+## Dashboard Preview
+![CustomerShoppingBehaviourDashboard](./powerbi/Dashboard.png)
+
 ---
 
 ## 📊 Dataset Information
