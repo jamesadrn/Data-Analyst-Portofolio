@@ -90,4 +90,4 @@ These formulas allow the workbook to:
 **James**  
 🎓 Tarumanagara University — Computer Science  
 📍 Jakarta, Indonesia  
-📊 Data Visualization & Business Intelligence Enthusiast  
+📊 Data Analysis & Visualization Enthusiast  

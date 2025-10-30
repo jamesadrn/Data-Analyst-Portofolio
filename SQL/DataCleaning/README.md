@@ -59,4 +59,4 @@ this version is written and optimized specifically for **PostgreSQL** syntax.
 **James Anderson**  
 🎓 Tarumanagara University — Computer Science  
 📍 Jakarta, Indonesia  
-📊 Data Analytics & SQL Development Enthusiast
+📊 Data Analysis & Visualization Enthusiast  

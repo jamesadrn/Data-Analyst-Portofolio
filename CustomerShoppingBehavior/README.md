@@ -75,5 +75,5 @@ Dataset: [Customer Shopping Behavior](https://github.com/amlanmohanty1/customer-
 ## ✍️ Author
 **James**  
 🎓 Computer Science Student — *Tarumanagara University (Indonesia)*  
-📊 Passionate about Data Analytics, SQL Automation, and Business Intelligence  
+📊 Data Analysis & Visualization Enthusiast  
 📍 Jakarta, Indonesia

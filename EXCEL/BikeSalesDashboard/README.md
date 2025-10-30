@@ -77,4 +77,4 @@ to create an **interactive and dynamic business report** for sales insights.
 **James**  
 🎓 Tarumanagara University — Computer Science  
 📍 Jakarta, Indonesia  
-📊 Data Analytics & Excel Dashboard Enthusiast
+📊 Data Analysis & Visualization Enthusiast  

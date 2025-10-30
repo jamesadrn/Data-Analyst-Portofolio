@@ -125,5 +125,5 @@ Dataset: [Chocolate Sales Dataset (Kaggle)](https://www.kaggle.com/datasets/atha
 ## ✍️ Author
 **James**  
 🎓 Computer Science Student — *Tarumanagara University (Indonesia)*  
-📊 Passionate about Data Analytics, SQL Automation, and Business Intelligence  
+📊 Data Analysis & Visualization Enthusiast  
 📍 Jakarta, Indonesia
